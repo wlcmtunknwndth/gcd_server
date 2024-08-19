@@ -1,0 +1,12 @@
+[package]
+name = "gcd_server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+iron = "0.5.x"
+mime = "0.2.x"
+router = "0.5.x"
+urlencoded = "0.5.0"
+
+
